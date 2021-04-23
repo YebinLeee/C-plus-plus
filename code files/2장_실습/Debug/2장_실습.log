@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\이예빈\Desktop\CSE 2021-1\과목들\C++프로그래밍\code files\2장_실습\main.cpp(92,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이예빈\Desktop\CSE 2021-1\과목들\C++프로그래밍\code files\2장_실습\main.cpp(116,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2장_실습.vcxproj -> C:\Users\이예빈\Desktop\CSE 2021-1\과목들\C++프로그래밍\code files\2장_실습\Debug\2장_실습.exe

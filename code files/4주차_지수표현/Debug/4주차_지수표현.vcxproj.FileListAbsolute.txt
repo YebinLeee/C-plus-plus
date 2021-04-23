@@ -1,0 +1,2 @@
+C:\Users\이예빈\Desktop\CSE 2021-1\과목들\C++프로그래밍\code files\4주차_지수표현\Debug\4주차_지수표현.exe
+C:\Users\이예빈\Desktop\CSE 2021-1\과목들\C++프로그래밍\code files\4주차_지수표현\Debug\4주차_지수표현.pdb

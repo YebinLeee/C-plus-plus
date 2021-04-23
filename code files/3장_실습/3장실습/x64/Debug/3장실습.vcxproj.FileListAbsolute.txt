@@ -1,0 +1,2 @@
+C:\Users\이예빈\Desktop\CSE 2021-1\과목들\C++프로그래밍\code files\3장실습\x64\Debug\3장실습.exe
+C:\Users\이예빈\Desktop\CSE 2021-1\과목들\C++프로그래밍\code files\3장실습\x64\Debug\3장실습.pdb
