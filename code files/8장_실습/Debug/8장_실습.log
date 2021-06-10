@@ -1,0 +1,15 @@
+﻿  6.cpp
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(28,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(28,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(33,10): error C2065: 'n': 선언되지 않은 식별자입니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(34,15): error C2065: 'n': 선언되지 않은 식별자입니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(36,38): error C2248: 'BaseArray::capacity': private 멤버('BaseArray' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(6): message : 'BaseArray::capacity' 선언을 참조하십시오.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(4): message : 'BaseArray' 선언을 참조하십시오.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(36,38): error C2064: 항은 0개의 인수를 받아들이는 함수로 계산되지 않습니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(36,84): error C2039: 'length': 'MyStack'의 멤버가 아닙니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(18): message : 'MyStack' 선언을 참조하십시오.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(38,16): error C2039: 'length': 'MyStack'의 멤버가 아닙니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(18): message : 'MyStack' 선언을 참조하십시오.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(39,18): error C2039: 'pop': 'MyStack'의 멤버가 아닙니다.
+C:\Users\Yebin Lee\OneDrive - sch.ac.kr\바탕 화면\CSE 2021-1\과목들\C++프로그래밍\code files\8장_실습\6.cpp(18): message : 'MyStack' 선언을 참조하십시오.
