@@ -1,8 +1,4 @@
-# C-plus-plus language 기본 문법 정리
 
-> 📚 명품 C++ 프로그래밍 
-
-<br><hr><br>
 
 # 클래스와 객체
 
